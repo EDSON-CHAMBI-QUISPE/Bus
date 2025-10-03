@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Bus">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBOtjRc7Tb7Azkp1iriFTcXMqKgl1yUurs"/>
+            android:value="clave de Api"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
